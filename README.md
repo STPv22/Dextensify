@@ -1,5 +1,7 @@
 Fork of dextensify. ORIGINAL REPO HERE: https://github.com/ading2210/dextensify
 
+## GOGGUARDIAN HAS STOPPED WORKING, IF IT STILL WORKS FOR YOU, IT MAY STOP SOON
+
 # Dextensify
 Dextensify is an exploit which lets you disable most admin-installed Chrome extensions from any webpage. It can be used from regular websites, HTML files (recomended), and data URLs.
 
